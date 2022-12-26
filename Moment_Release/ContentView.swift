@@ -38,7 +38,7 @@ struct ContentView: View {
                     }
                 }
             }
-            Text("Select an itemsasdfㄴㄴ")
+            Text("Select an item")
         }
     }
 
